@@ -1,0 +1,10 @@
+qiskit
+scikit-learn
+streamlit
+numpy
+scipy
+streamlit
+numpy
+scipy
+qiskit
+matplotlib

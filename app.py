@@ -66,6 +66,14 @@ with st.sidebar:
 st.markdown("""
 ### 🤖 What this demo does:
 
+📱 **Mobile-Friendly App**
+
+This project runs all quantum & classical computations on the server,
+so it works smoothly even on mobile devices.
+
+If a run takes a few seconds, please wait — the server is processing
+the optimization.
+
 Goal: We check how close quantum computing comes to classical computing when solving the same optimization problem
 
 ## 🧭 Start Here — Recommended Order
